@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-C:\Users\alu0101216829\Evaluable\Assets\characterController.cs
+
 public class characterController : MonoBehaviour
 {
   private float velocity = 2;
